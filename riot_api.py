@@ -6,8 +6,7 @@ import urllib.parse
 import json
 import time
 
-
-KEY = 'RGAPI-4770fb76-3714-4238-8bea-78e7a4672b42'
+KEY = '*****-********-****-****-****-************'  # Riot API key censored for privacy.
 REGION = 'na'
 PLATFORM_IDS = {'BR': 'br1', 'EUNE': 'eun1', 'EUW': 'euw1', 'JP': 'jp1',
                 'KR': 'kr', 'LAN': 'la1', 'LAS': 'la2', 'NA': 'na1',
