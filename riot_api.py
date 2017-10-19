@@ -7,7 +7,7 @@ import json
 import time
 
 
-KEY = '*****-********-****-****-****-************'
+KEY = '*****-********-****-****-****-************'  # Riot API key censored for privacy.
 REGION = 'na'
 PLATFORM_IDS = {'BR': 'br1', 'EUNE': 'eun1', 'EUW': 'euw1', 'JP': 'jp1',
                 'KR': 'kr', 'LAN': 'la1', 'LAS': 'la2', 'NA': 'na1',
